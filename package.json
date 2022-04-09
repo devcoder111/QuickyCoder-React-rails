@@ -15,7 +15,7 @@
     "axios": "^0.15.3",
     "babel-plugin-syntax-decorators": "^6.13.0",
     "lodash": "^4.17.4",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "query-string": "^5.0.0",
     "radium": "^0.18.2",
     "rc-tooltip": "^3.7.0",
